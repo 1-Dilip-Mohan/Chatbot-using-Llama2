@@ -1,10 +1,10 @@
 from setuptools import find_packages, setup
 
 setup(
-    name = 'Medical Chatbot',
+    name = 'Banking Chatbot',
     version= '0.0.0',
-    author= 'Boktiar Ahmed Bappy',
-    author_email= 'entbappy73@gmail.com',
+    author= 'Dilip Mohan',
+    author_email= '1.dilip.mohan@gmail.com',
     packages= find_packages(),
     install_requires = []
 
