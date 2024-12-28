@@ -1,4 +1,3 @@
-# End-to-end-Medical-Chatbot-using-Llama2
 
 # How to run?
 ### STEPS:
@@ -12,11 +11,11 @@ Project repo: https://github.com/
 ### STEP 01- Create a conda environment after opening the repository
 
 ```bash
-conda create -n mchatbot python=3.8 -y
+conda create -n bchatbot python=3.8 -y
 ```
 
 ```bash
-conda activate mchatbot
+conda activate bchatbot
 ```
 
 ### STEP 02- install the requirements
@@ -29,7 +28,7 @@ pip install -r requirements.txt
 
 ```ini
 PINECONE_API_KEY = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
-PINECONE_API_ENV = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+
 ```
 
 
